@@ -1,0 +1,4259 @@
+{
+    "img_shape": [
+        7292,
+        1868,
+        3
+    ],
+    "texts": [
+        {
+            "id": 0,
+            "content": "amazon",
+            "column_min": 22,
+            "row_min": 22,
+            "column_max": 141,
+            "row_max": 44,
+            "width": 119,
+            "height": 22
+        },
+        {
+            "id": 1,
+            "content": "Deliver to",
+            "column_min": 192,
+            "row_min": 21,
+            "column_max": 257,
+            "row_max": 34,
+            "width": 65,
+            "height": 13
+        },
+        {
+            "id": 2,
+            "content": "All",
+            "column_min": 303,
+            "row_min": 31,
+            "column_max": 323,
+            "row_max": 43,
+            "width": 20,
+            "height": 12
+        },
+        {
+            "id": 3,
+            "content": "Search Amazon",
+            "column_min": 367,
+            "row_min": 28,
+            "column_max": 497,
+            "row_max": 42,
+            "width": 130,
+            "height": 14
+        },
+        {
+            "id": 4,
+            "content": "Pakistan",
+            "column_min": 192,
+            "row_min": 36,
+            "column_max": 261,
+            "row_max": 52,
+            "width": 69,
+            "height": 16
+        },
+        {
+            "id": 5,
+            "content": "All",
+            "column_min": 50,
+            "row_min": 90,
+            "column_max": 76,
+            "row_max": 107,
+            "width": 26,
+            "height": 17
+        },
+        {
+            "id": 6,
+            "content": "Today's Deals",
+            "column_min": 96,
+            "row_min": 87,
+            "column_max": 204,
+            "row_max": 107,
+            "width": 108,
+            "height": 20
+        },
+        {
+            "id": 7,
+            "content": "Customer Service",
+            "column_min": 226,
+            "row_min": 91,
+            "column_max": 366,
+            "row_max": 107,
+            "width": 140,
+            "height": 16
+        },
+        {
+            "id": 8,
+            "content": "Registry",
+            "column_min": 387,
+            "row_min": 91,
+            "column_max": 453,
+            "row_max": 107,
+            "width": 66,
+            "height": 16
+        },
+        {
+            "id": 9,
+            "content": "Gift Cards",
+            "column_min": 473,
+            "row_min": 91,
+            "column_max": 555,
+            "row_max": 107,
+            "width": 82,
+            "height": 16
+        },
+        {
+            "id": 10,
+            "content": "Sell",
+            "column_min": 574,
+            "row_min": 91,
+            "column_max": 607,
+            "row_max": 107,
+            "width": 33,
+            "height": 16
+        },
+        {
+            "id": 11,
+            "content": "Kitchen favorites",
+            "column_min": 503,
+            "row_min": 238,
+            "column_max": 824,
+            "row_max": 269,
+            "width": 321,
+            "height": 31
+        },
+        {
+            "id": 12,
+            "content": "under $ 50",
+            "column_min": 601,
+            "row_min": 293,
+            "column_max": 727,
+            "row_max": 313,
+            "width": 126,
+            "height": 20
+        },
+        {
+            "id": 13,
+            "content": "Gaming accessories",
+            "column_min": 50,
+            "row_min": 466,
+            "column_max": 289,
+            "row_max": 491,
+            "width": 239,
+            "height": 25
+        },
+        {
+            "id": 14,
+            "content": "Shop deals in Fashion",
+            "column_min": 510,
+            "row_min": 466,
+            "column_max": 777,
+            "row_max": 490,
+            "width": 267,
+            "height": 24
+        },
+        {
+            "id": 15,
+            "content": "105H",
+            "column_min": 756,
+            "row_min": 549,
+            "column_max": 781,
+            "row_max": 571,
+            "width": 25,
+            "height": 22
+        },
+        {
+            "id": 16,
+            "content": "Headsets",
+            "column_min": 51,
+            "row_min": 658,
+            "column_max": 112,
+            "row_max": 669,
+            "width": 61,
+            "height": 11
+        },
+        {
+            "id": 17,
+            "content": "Keyboards",
+            "column_min": 253,
+            "row_min": 658,
+            "column_max": 324,
+            "row_max": 671,
+            "width": 71,
+            "height": 13
+        },
+        {
+            "id": 18,
+            "content": "Jeans under $ 50",
+            "column_min": 510,
+            "row_min": 658,
+            "column_max": 623,
+            "row_max": 670,
+            "width": 113,
+            "height": 12
+        },
+        {
+            "id": 19,
+            "content": "Tops under $ 25",
+            "column_min": 714,
+            "row_min": 657,
+            "column_max": 818,
+            "row_max": 671,
+            "width": 104,
+            "height": 14
+        },
+        {
+            "id": 20,
+            "content": "Computer mice",
+            "column_min": 49,
+            "row_min": 856,
+            "column_max": 153,
+            "row_max": 871,
+            "width": 104,
+            "height": 15
+        },
+        {
+            "id": 21,
+            "content": "See more",
+            "column_min": 50,
+            "row_min": 919,
+            "column_max": 119,
+            "row_max": 933,
+            "width": 69,
+            "height": 14
+        },
+        {
+            "id": 22,
+            "content": "Chairs",
+            "column_min": 253,
+            "row_min": 857,
+            "column_max": 295,
+            "row_max": 870,
+            "width": 42,
+            "height": 13
+        },
+        {
+            "id": 23,
+            "content": "Dresses under $ 30",
+            "column_min": 511,
+            "row_min": 859,
+            "column_max": 636,
+            "row_max": 870,
+            "width": 125,
+            "height": 11
+        },
+        {
+            "id": 24,
+            "content": "Shoes under $ 50",
+            "column_min": 713,
+            "row_min": 858,
+            "column_max": 828,
+            "row_max": 869,
+            "width": 115,
+            "height": 11
+        },
+        {
+            "id": 25,
+            "content": "See all deals",
+            "column_min": 511,
+            "row_min": 918,
+            "column_max": 602,
+            "row_max": 931,
+            "width": 91,
+            "height": 13
+        },
+        {
+            "id": 26,
+            "content": "Hello , sign in",
+            "column_min": 1496,
+            "row_min": 22,
+            "column_max": 1583,
+            "row_max": 35,
+            "width": 87,
+            "height": 13
+        },
+        {
+            "id": 27,
+            "content": "EN\u25be",
+            "column_min": 1436,
+            "row_min": 37,
+            "column_max": 1472,
+            "row_max": 48,
+            "width": 36,
+            "height": 11
+        },
+        {
+            "id": 28,
+            "content": "Account & Lists",
+            "column_min": 1495,
+            "row_min": 38,
+            "column_max": 1623,
+            "row_max": 52,
+            "width": 128,
+            "height": 14
+        },
+        {
+            "id": 29,
+            "content": "Deals in PCs",
+            "column_min": 973,
+            "row_min": 467,
+            "column_max": 1121,
+            "row_max": 487,
+            "width": 148,
+            "height": 20
+        },
+        {
+            "id": 30,
+            "content": "Refresh your",
+            "column_min": 1433,
+            "row_min": 465,
+            "column_max": 1591,
+            "row_max": 493,
+            "width": 158,
+            "height": 28
+        },
+        {
+            "id": 31,
+            "content": "space",
+            "column_min": 1595,
+            "row_min": 471,
+            "column_max": 1664,
+            "row_max": 496,
+            "width": 69,
+            "height": 25
+        },
+        {
+            "id": 32,
+            "content": "Shop now",
+            "column_min": 972,
+            "row_min": 919,
+            "column_max": 1045,
+            "row_max": 935,
+            "width": 73,
+            "height": 16
+        },
+        {
+            "id": 33,
+            "content": "Returns",
+            "column_min": 1663,
+            "row_min": 23,
+            "column_max": 1715,
+            "row_max": 33,
+            "width": 52,
+            "height": 10
+        },
+        {
+            "id": 34,
+            "content": "& Orders",
+            "column_min": 1662,
+            "row_min": 39,
+            "column_max": 1737,
+            "row_max": 51,
+            "width": 75,
+            "height": 12
+        },
+        {
+            "id": 35,
+            "content": "Cart",
+            "column_min": 1809,
+            "row_min": 38,
+            "column_max": 1843,
+            "row_max": 51,
+            "width": 34,
+            "height": 13
+        },
+        {
+            "id": 36,
+            "content": "Dining",
+            "column_min": 1433,
+            "row_min": 657,
+            "column_max": 1477,
+            "row_max": 672,
+            "width": 44,
+            "height": 15
+        },
+        {
+            "id": 37,
+            "content": "Home",
+            "column_min": 1637,
+            "row_min": 658,
+            "column_max": 1676,
+            "row_max": 671,
+            "width": 39,
+            "height": 13
+        },
+        {
+            "id": 38,
+            "content": "Kitchen",
+            "column_min": 1434,
+            "row_min": 857,
+            "column_max": 1483,
+            "row_max": 869,
+            "width": 49,
+            "height": 12
+        },
+        {
+            "id": 39,
+            "content": "See more",
+            "column_min": 1433,
+            "row_min": 919,
+            "column_max": 1502,
+            "row_max": 933,
+            "width": 69,
+            "height": 14
+        },
+        {
+            "id": 40,
+            "content": "Sh",
+            "column_min": 1714,
+            "row_min": 764,
+            "column_max": 1737,
+            "row_max": 780,
+            "width": 23,
+            "height": 16
+        },
+        {
+            "id": 41,
+            "content": "Health and Beauty",
+            "column_min": 1636,
+            "row_min": 856,
+            "column_max": 1763,
+            "row_max": 872,
+            "width": 127,
+            "height": 16
+        },
+        {
+            "id": 42,
+            "content": "Amazon Gadget Store",
+            "column_min": 49,
+            "row_min": 1019,
+            "column_max": 319,
+            "row_max": 1040,
+            "width": 270,
+            "height": 21
+        },
+        {
+            "id": 43,
+            "content": "Home d\u00e9cor under $ 50",
+            "column_min": 512,
+            "row_min": 1018,
+            "column_max": 793,
+            "row_max": 1038,
+            "width": 281,
+            "height": 20
+        },
+        {
+            "id": 44,
+            "content": "Toys under $ 25",
+            "column_min": 972,
+            "row_min": 1015,
+            "column_max": 1158,
+            "row_max": 1042,
+            "width": 186,
+            "height": 27
+        },
+        {
+            "id": 45,
+            "content": "Beauty steals under $ 25",
+            "column_min": 1434,
+            "row_min": 1016,
+            "column_max": 1728,
+            "row_max": 1041,
+            "width": 294,
+            "height": 25
+        },
+        {
+            "id": 46,
+            "content": "Smartphones",
+            "column_min": 50,
+            "row_min": 1276,
+            "column_max": 164,
+            "row_max": 1294,
+            "width": 114,
+            "height": 18
+        },
+        {
+            "id": 47,
+            "content": "Tablets",
+            "column_min": 51,
+            "row_min": 1410,
+            "column_max": 112,
+            "row_max": 1424,
+            "width": 61,
+            "height": 14
+        },
+        {
+            "id": 48,
+            "content": "Laptops",
+            "column_min": 181,
+            "row_min": 1410,
+            "column_max": 249,
+            "row_max": 1428,
+            "width": 68,
+            "height": 18
+        },
+        {
+            "id": 49,
+            "content": "TVs",
+            "column_min": 312,
+            "row_min": 1412,
+            "column_max": 344,
+            "row_max": 1424,
+            "width": 32,
+            "height": 12
+        },
+        {
+            "id": 50,
+            "content": "See more from Amazon Gadgets",
+            "column_min": 50,
+            "row_min": 1467,
+            "column_max": 289,
+            "row_max": 1485,
+            "width": 239,
+            "height": 18
+        },
+        {
+            "id": 51,
+            "content": "Shop now",
+            "column_min": 510,
+            "row_min": 1470,
+            "column_max": 584,
+            "row_max": 1484,
+            "width": 74,
+            "height": 14
+        },
+        {
+            "id": 52,
+            "content": "amazon",
+            "column_min": 595,
+            "row_min": 1428,
+            "column_max": 626,
+            "row_max": 1434,
+            "width": 31,
+            "height": 6
+        },
+        {
+            "id": 53,
+            "content": "International top sellers in Home Improvement",
+            "column_min": 50,
+            "row_min": 1568,
+            "column_max": 634,
+            "row_max": 1597,
+            "width": 584,
+            "height": 29
+        },
+        {
+            "id": 54,
+            "content": "LEVITON decora smart",
+            "column_min": 453,
+            "row_min": 1645,
+            "column_max": 506,
+            "row_max": 1668,
+            "width": 53,
+            "height": 23
+        },
+        {
+            "id": 55,
+            "content": "Switch",
+            "column_min": 453,
+            "row_min": 1672,
+            "column_max": 479,
+            "row_max": 1682,
+            "width": 26,
+            "height": 10
+        },
+        {
+            "id": 56,
+            "content": "WiFi",
+            "column_min": 458,
+            "row_min": 1709,
+            "column_max": 482,
+            "row_max": 1721,
+            "width": 24,
+            "height": 12
+        },
+        {
+            "id": 57,
+            "content": "Best Sellers in Beauty & Personal Care",
+            "column_min": 51,
+            "row_min": 1949,
+            "column_max": 519,
+            "row_max": 1971,
+            "width": 468,
+            "height": 22
+        },
+        {
+            "id": 58,
+            "content": "Neutrogena",
+            "column_min": 140,
+            "row_min": 2056,
+            "column_max": 201,
+            "row_max": 2070,
+            "width": 61,
+            "height": 14
+        },
+        {
+            "id": 59,
+            "content": "MAKEUP REMOVER",
+            "column_min": 97,
+            "row_min": 2107,
+            "column_max": 239,
+            "row_max": 2121,
+            "width": 142,
+            "height": 14
+        },
+        {
+            "id": 60,
+            "content": "ULTRA SOFT CLEANSING TOWELETTES",
+            "column_min": 98,
+            "row_min": 2124,
+            "column_max": 242,
+            "row_max": 2132,
+            "width": 144,
+            "height": 8
+        },
+        {
+            "id": 61,
+            "content": "SPECIAL VALUE",
+            "column_min": 62,
+            "row_min": 2129,
+            "column_max": 126,
+            "row_max": 2140,
+            "width": 64,
+            "height": 11
+        },
+        {
+            "id": 62,
+            "content": "TWIN PACK",
+            "column_min": 128,
+            "row_min": 2131,
+            "column_max": 174,
+            "row_max": 2140,
+            "width": 46,
+            "height": 9
+        },
+        {
+            "id": 63,
+            "content": "Neutrogena",
+            "column_min": 135,
+            "row_min": 2145,
+            "column_max": 205,
+            "row_max": 2158,
+            "width": 70,
+            "height": 13
+        },
+        {
+            "id": 64,
+            "content": "MAKEUP REMOVER",
+            "column_min": 58,
+            "row_min": 2165,
+            "column_max": 237,
+            "row_max": 2183,
+            "width": 179,
+            "height": 18
+        },
+        {
+            "id": 65,
+            "content": "ULTRA SOFT CLEANSING TOWELETTES",
+            "column_min": 58,
+            "row_min": 2187,
+            "column_max": 223,
+            "row_max": 2198,
+            "width": 165,
+            "height": 11
+        },
+        {
+            "id": 66,
+            "content": "50 Plant Based Compostable Towelettes",
+            "column_min": 59,
+            "row_min": 2203,
+            "column_max": 280,
+            "row_max": 2220,
+            "width": 221,
+            "height": 17
+        },
+        {
+            "id": 67,
+            "content": "eos",
+            "column_min": 380,
+            "row_min": 2068,
+            "column_max": 412,
+            "row_max": 2082,
+            "width": 32,
+            "height": 14
+        },
+        {
+            "id": 68,
+            "content": "shea better",
+            "column_min": 361,
+            "row_min": 2104,
+            "column_max": 399,
+            "row_max": 2110,
+            "width": 38,
+            "height": 6
+        },
+        {
+            "id": 69,
+            "content": "24H",
+            "column_min": 361,
+            "row_min": 2108,
+            "column_max": 384,
+            "row_max": 2119,
+            "width": 23,
+            "height": 11
+        },
+        {
+            "id": 70,
+            "content": "Moisture LOTION",
+            "column_min": 385,
+            "row_min": 2109,
+            "column_max": 438,
+            "row_max": 2129,
+            "width": 53,
+            "height": 20
+        },
+        {
+            "id": 71,
+            "content": "BODY",
+            "column_min": 360,
+            "row_min": 2119,
+            "column_max": 385,
+            "row_max": 2130,
+            "width": 25,
+            "height": 11
+        },
+        {
+            "id": 72,
+            "content": "Have more fun with family",
+            "column_min": 51,
+            "row_min": 2322,
+            "column_max": 380,
+            "row_max": 2345,
+            "width": 329,
+            "height": 23
+        },
+        {
+            "id": 73,
+            "content": "A",
+            "column_min": 54,
+            "row_min": 2365,
+            "column_max": 212,
+            "row_max": 2486,
+            "width": 158,
+            "height": 121
+        },
+        {
+            "id": 74,
+            "content": "Outdoor Play Sets",
+            "column_min": 50,
+            "row_min": 2510,
+            "column_max": 174,
+            "row_max": 2524,
+            "width": 124,
+            "height": 14
+        },
+        {
+            "id": 75,
+            "content": "Learning Toys",
+            "column_min": 253,
+            "row_min": 2511,
+            "column_max": 347,
+            "row_max": 2524,
+            "width": 94,
+            "height": 13
+        },
+        {
+            "id": 76,
+            "content": "Action Figures",
+            "column_min": 49,
+            "row_min": 2710,
+            "column_max": 147,
+            "row_max": 2725,
+            "width": 98,
+            "height": 15
+        },
+        {
+            "id": 77,
+            "content": "Pretend Play Toys",
+            "column_min": 253,
+            "row_min": 2708,
+            "column_max": 374,
+            "row_max": 2726,
+            "width": 121,
+            "height": 18
+        },
+        {
+            "id": 78,
+            "content": "See more",
+            "column_min": 50,
+            "row_min": 2774,
+            "column_max": 119,
+            "row_max": 2787,
+            "width": 69,
+            "height": 13
+        },
+        {
+            "id": 79,
+            "content": "Top picks for Pakistan",
+            "column_min": 49,
+            "row_min": 2872,
+            "column_max": 319,
+            "row_max": 2899,
+            "width": 270,
+            "height": 27
+        },
+        {
+            "id": 80,
+            "content": "00 ce Cream",
+            "column_min": 368,
+            "row_min": 2637,
+            "column_max": 411,
+            "row_max": 2664,
+            "width": 43,
+            "height": 27
+        },
+        {
+            "id": 81,
+            "content": "Top Sellers in Books for you",
+            "column_min": 50,
+            "row_min": 3251,
+            "column_max": 393,
+            "row_max": 3275,
+            "width": 343,
+            "height": 24
+        },
+        {
+            "id": 82,
+            "content": "COMPETING",
+            "column_min": 73,
+            "row_min": 3318,
+            "column_max": 209,
+            "row_max": 3333,
+            "width": 136,
+            "height": 15
+        },
+        {
+            "id": 83,
+            "content": "IN THE",
+            "column_min": 106,
+            "row_min": 3351,
+            "column_max": 177,
+            "row_max": 3368,
+            "width": 71,
+            "height": 17
+        },
+        {
+            "id": 84,
+            "content": "AGE OF AI",
+            "column_min": 85,
+            "row_min": 3387,
+            "column_max": 197,
+            "row_max": 3402,
+            "width": 112,
+            "height": 15
+        },
+        {
+            "id": 85,
+            "content": "Strategy and Leadership When Algorithms",
+            "column_min": 70,
+            "row_min": 3437,
+            "column_max": 212,
+            "row_max": 3445,
+            "width": 142,
+            "height": 8
+        },
+        {
+            "id": 86,
+            "content": "and Networks Run",
+            "column_min": 93,
+            "row_min": 3445,
+            "column_max": 153,
+            "row_max": 3454,
+            "width": 60,
+            "height": 9
+        },
+        {
+            "id": 87,
+            "content": "the World",
+            "column_min": 154,
+            "row_min": 3445,
+            "column_max": 189,
+            "row_max": 3452,
+            "width": 35,
+            "height": 7
+        },
+        {
+            "id": 88,
+            "content": "MARCO IANSITI",
+            "column_min": 105,
+            "row_min": 3483,
+            "column_max": 177,
+            "row_max": 3491,
+            "width": 72,
+            "height": 8
+        },
+        {
+            "id": 89,
+            "content": "KARIM R. LAKHANI",
+            "column_min": 98,
+            "row_min": 3493,
+            "column_max": 184,
+            "row_max": 3501,
+            "width": 86,
+            "height": 8
+        },
+        {
+            "id": 90,
+            "content": "imagin",
+            "column_min": 835,
+            "row_min": 1200,
+            "column_max": 856,
+            "row_max": 1209,
+            "width": 21,
+            "height": 9
+        },
+        {
+            "id": 91,
+            "content": "Shop now",
+            "column_min": 972,
+            "row_min": 1470,
+            "column_max": 1045,
+            "row_max": 1482,
+            "width": 73,
+            "height": 12
+        },
+        {
+            "id": 92,
+            "content": "Shop now",
+            "column_min": 1433,
+            "row_min": 1468,
+            "column_max": 1506,
+            "row_max": 1485,
+            "width": 73,
+            "height": 17
+        },
+        {
+            "id": 93,
+            "content": "Dove",
+            "column_min": 955,
+            "row_min": 2051,
+            "column_max": 999,
+            "row_max": 2068,
+            "width": 44,
+            "height": 17
+        },
+        {
+            "id": 94,
+            "content": "cotton",
+            "column_min": 578,
+            "row_min": 2070,
+            "column_max": 601,
+            "row_max": 2076,
+            "width": 23,
+            "height": 6
+        },
+        {
+            "id": 95,
+            "content": "deep",
+            "column_min": 943,
+            "row_min": 2091,
+            "column_max": 961,
+            "row_max": 2098,
+            "width": 18,
+            "height": 7
+        },
+        {
+            "id": 96,
+            "content": "moisture",
+            "column_min": 942,
+            "row_min": 2100,
+            "column_max": 980,
+            "row_max": 2107,
+            "width": 38,
+            "height": 7
+        },
+        {
+            "id": 97,
+            "content": "TOUCH UP",
+            "column_min": 1281,
+            "row_min": 2007,
+            "column_max": 1314,
+            "row_max": 2014,
+            "width": 33,
+            "height": 7
+        },
+        {
+            "id": 98,
+            "content": "30 .",
+            "column_min": 1576,
+            "row_min": 1983,
+            "column_max": 1591,
+            "row_max": 1989,
+            "width": 15,
+            "height": 6
+        },
+        {
+            "id": 99,
+            "content": "amazon basics",
+            "column_min": 1124,
+            "row_min": 2072,
+            "column_max": 1186,
+            "row_max": 2083,
+            "width": 62,
+            "height": 11
+        },
+        {
+            "id": 100,
+            "content": "cotton",
+            "column_min": 1127,
+            "row_min": 2088,
+            "column_max": 1181,
+            "row_max": 2104,
+            "width": 54,
+            "height": 16
+        },
+        {
+            "id": 101,
+            "content": "swabs",
+            "column_min": 1128,
+            "row_min": 2103,
+            "column_max": 1180,
+            "row_max": 2119,
+            "width": 52,
+            "height": 16
+        },
+        {
+            "id": 102,
+            "content": "HYDRO SILK",
+            "column_min": 1298,
+            "row_min": 2104,
+            "column_max": 1353,
+            "row_max": 2136,
+            "width": 55,
+            "height": 32
+        },
+        {
+            "id": 103,
+            "content": "500",
+            "column_min": 1135,
+            "row_min": 2195,
+            "column_max": 1148,
+            "row_max": 2203,
+            "width": 13,
+            "height": 8
+        },
+        {
+            "id": 104,
+            "content": "COUNT",
+            "column_min": 1149,
+            "row_min": 2196,
+            "column_max": 1174,
+            "row_max": 2205,
+            "width": 25,
+            "height": 9
+        },
+        {
+            "id": 105,
+            "content": "awajumbasks",
+            "column_min": 1590,
+            "row_min": 1208,
+            "column_max": 1642,
+            "row_max": 1215,
+            "width": 52,
+            "height": 7
+        },
+        {
+            "id": 106,
+            "content": "makeup",
+            "column_min": 1589,
+            "row_min": 1222,
+            "column_max": 1645,
+            "row_max": 1236,
+            "width": 56,
+            "height": 14
+        },
+        {
+            "id": 107,
+            "content": "blender",
+            "column_min": 1589,
+            "row_min": 1237,
+            "column_max": 1645,
+            "row_max": 1248,
+            "width": 56,
+            "height": 11
+        },
+        {
+            "id": 108,
+            "content": "OUCHLESS Goody",
+            "column_min": 1574,
+            "row_min": 2171,
+            "column_max": 1681,
+            "row_max": 2222,
+            "width": 107,
+            "height": 51
+        },
+        {
+            "id": 109,
+            "content": "PHILIPS P",
+            "column_min": 1740,
+            "row_min": 1610,
+            "column_max": 1823,
+            "row_max": 1757,
+            "width": 83,
+            "height": 147
+        },
+        {
+            "id": 110,
+            "content": "Swabs",
+            "column_min": 1779,
+            "row_min": 2066,
+            "column_max": 1806,
+            "row_max": 2073,
+            "width": 27,
+            "height": 7
+        },
+        {
+            "id": 111,
+            "content": "wwwwwwwww",
+            "column_min": 1777,
+            "row_min": 2151,
+            "column_max": 1794,
+            "row_max": 2208,
+            "width": 17,
+            "height": 57
+        },
+        {
+            "id": 112,
+            "content": "Personal Care under $ 25",
+            "column_min": 512,
+            "row_min": 2321,
+            "column_max": 812,
+            "row_max": 2343,
+            "width": 300,
+            "height": 22
+        },
+        {
+            "id": 113,
+            "content": "Look your best this season",
+            "column_min": 973,
+            "row_min": 2322,
+            "column_max": 1297,
+            "row_max": 2345,
+            "width": 324,
+            "height": 23
+        },
+        {
+            "id": 114,
+            "content": "Upgrade your office furniture",
+            "column_min": 1434,
+            "row_min": 2319,
+            "column_max": 1793,
+            "row_max": 2347,
+            "width": 359,
+            "height": 28
+        },
+        {
+            "id": 115,
+            "content": "See more",
+            "column_min": 511,
+            "row_min": 2774,
+            "column_max": 580,
+            "row_max": 2787,
+            "width": 69,
+            "height": 13
+        },
+        {
+            "id": 116,
+            "content": "THE",
+            "column_min": 324,
+            "row_min": 3282,
+            "column_max": 344,
+            "row_max": 3287,
+            "width": 20,
+            "height": 5
+        },
+        {
+            "id": 117,
+            "content": "WOLF ECONOMY",
+            "column_min": 255,
+            "row_min": 3292,
+            "column_max": 414,
+            "row_max": 3305,
+            "width": 159,
+            "height": 13
+        },
+        {
+            "id": 118,
+            "content": "AWAKENS",
+            "column_min": 303,
+            "row_min": 3309,
+            "column_max": 363,
+            "row_max": 3317,
+            "width": 60,
+            "height": 8
+        },
+        {
+            "id": 119,
+            "content": "El viaje radiante",
+            "column_min": 455,
+            "row_min": 3288,
+            "column_max": 602,
+            "row_max": 3309,
+            "width": 147,
+            "height": 21
+        },
+        {
+            "id": 120,
+            "content": "de la mujer Giraso !",
+            "column_min": 453,
+            "row_min": 3313,
+            "column_max": 603,
+            "row_max": 3329,
+            "width": 150,
+            "height": 16
+        },
+        {
+            "id": 121,
+            "content": "JOHAN NYLANDER",
+            "column_min": 335,
+            "row_min": 3458,
+            "column_max": 413,
+            "row_max": 3464,
+            "width": 78,
+            "height": 6
+        },
+        {
+            "id": 122,
+            "content": "Fantastic Finds for Home",
+            "column_min": 51,
+            "row_min": 3626,
+            "column_max": 356,
+            "row_max": 3645,
+            "width": 305,
+            "height": 19
+        },
+        {
+            "id": 123,
+            "content": "Nooria de peneva dona der ,",
+            "column_min": 457,
+            "row_min": 3485,
+            "column_max": 566,
+            "row_max": 3491,
+            "width": 109,
+            "height": 6
+        },
+        {
+            "id": 124,
+            "content": "&",
+            "column_min": 457,
+            "row_min": 3493,
+            "column_max": 463,
+            "row_max": 3499,
+            "width": 6,
+            "height": 6
+        },
+        {
+            "id": 125,
+            "content": "pers",
+            "column_min": 545,
+            "row_min": 3493,
+            "column_max": 559,
+            "row_max": 3499,
+            "width": 14,
+            "height": 6
+        },
+        {
+            "id": 126,
+            "content": "adversidad , ando una vida ple",
+            "column_min": 469,
+            "row_min": 3506,
+            "column_max": 565,
+            "row_max": 3513,
+            "width": 96,
+            "height": 7
+        },
+        {
+            "id": 127,
+            "content": "descubrir las dar",
+            "column_min": 457,
+            "row_min": 3499,
+            "column_max": 516,
+            "row_max": 3505,
+            "width": 59,
+            "height": 6
+        },
+        {
+            "id": 128,
+            "content": "para flower bar",
+            "column_min": 524,
+            "row_min": 3499,
+            "column_max": 584,
+            "row_max": 3506,
+            "width": 60,
+            "height": 7
+        },
+        {
+            "id": 129,
+            "content": "Orgal Chiers",
+            "column_min": 509,
+            "row_min": 3517,
+            "column_max": 553,
+            "row_max": 3524,
+            "width": 44,
+            "height": 7
+        },
+        {
+            "id": 130,
+            "content": "00",
+            "column_min": 595,
+            "row_min": 2678,
+            "column_max": 616,
+            "row_max": 2727,
+            "width": 21,
+            "height": 49
+        },
+        {
+            "id": 131,
+            "content": "REMOVES UP SURFACE STAINS TO 90 %",
+            "column_min": 699,
+            "row_min": 2605,
+            "column_max": 787,
+            "row_max": 2629,
+            "width": 88,
+            "height": 24
+        },
+        {
+            "id": 132,
+            "content": "Oral - B",
+            "column_min": 709,
+            "row_min": 2647,
+            "column_max": 731,
+            "row_max": 2729,
+            "width": 22,
+            "height": 82
+        },
+        {
+            "id": 133,
+            "content": "PRO",
+            "column_min": 742,
+            "row_min": 2691,
+            "column_max": 754,
+            "row_max": 2718,
+            "width": 12,
+            "height": 27
+        },
+        {
+            "id": 134,
+            "content": "FLEX",
+            "column_min": 741,
+            "row_min": 2657,
+            "column_max": 753,
+            "row_max": 2688,
+            "width": 12,
+            "height": 31
+        },
+        {
+            "id": 135,
+            "content": "PATRICK ASOO",
+            "column_min": 693,
+            "row_min": 3299,
+            "column_max": 752,
+            "row_max": 3308,
+            "width": 59,
+            "height": 9
+        },
+        {
+            "id": 136,
+            "content": "The drum path",
+            "column_min": 661,
+            "row_min": 3326,
+            "column_max": 786,
+            "row_max": 3350,
+            "width": 125,
+            "height": 24
+        },
+        {
+            "id": 137,
+            "content": "from zero to advanced",
+            "column_min": 677,
+            "row_min": 3356,
+            "column_max": 770,
+            "row_max": 3364,
+            "width": 93,
+            "height": 8
+        },
+        {
+            "id": 138,
+            "content": "SOFT",
+            "column_min": 795,
+            "row_min": 2395,
+            "column_max": 817,
+            "row_max": 2400,
+            "width": 22,
+            "height": 5
+        },
+        {
+            "id": 139,
+            "content": "REME",
+            "column_min": 800,
+            "row_min": 3014,
+            "column_max": 834,
+            "row_max": 3026,
+            "width": 34,
+            "height": 12
+        },
+        {
+            "id": 140,
+            "content": "EXTREME",
+            "column_min": 877,
+            "row_min": 3015,
+            "column_max": 927,
+            "row_max": 3029,
+            "width": 50,
+            "height": 14
+        },
+        {
+            "id": 141,
+            "content": "For Her",
+            "column_min": 972,
+            "row_min": 2512,
+            "column_max": 1023,
+            "row_max": 2522,
+            "width": 51,
+            "height": 10
+        },
+        {
+            "id": 142,
+            "content": "For Him",
+            "column_min": 1175,
+            "row_min": 2512,
+            "column_max": 1227,
+            "row_max": 2522,
+            "width": 52,
+            "height": 10
+        },
+        {
+            "id": 143,
+            "content": "For Teens",
+            "column_min": 972,
+            "row_min": 2712,
+            "column_max": 1037,
+            "row_max": 2722,
+            "width": 65,
+            "height": 10
+        },
+        {
+            "id": 144,
+            "content": "For Kids",
+            "column_min": 1175,
+            "row_min": 2711,
+            "column_max": 1228,
+            "row_max": 2722,
+            "width": 53,
+            "height": 11
+        },
+        {
+            "id": 145,
+            "content": "See more",
+            "column_min": 972,
+            "row_min": 2773,
+            "column_max": 1041,
+            "row_max": 2787,
+            "width": 69,
+            "height": 14
+        },
+        {
+            "id": 146,
+            "content": "Ang\u00e9lica Castro",
+            "column_min": 898,
+            "row_min": 3303,
+            "column_max": 983,
+            "row_max": 3315,
+            "width": 85,
+            "height": 12
+        },
+        {
+            "id": 147,
+            "content": "EXPERIENCIAS",
+            "column_min": 917,
+            "row_min": 3347,
+            "column_max": 969,
+            "row_max": 3357,
+            "width": 52,
+            "height": 10
+        },
+        {
+            "id": 148,
+            "content": "DE",
+            "column_min": 970,
+            "row_min": 3347,
+            "column_max": 981,
+            "row_max": 3355,
+            "width": 11,
+            "height": 8
+        },
+        {
+            "id": 149,
+            "content": "AMOR TRISTEZA",
+            "column_min": 917,
+            "row_min": 3355,
+            "column_max": 981,
+            "row_max": 3365,
+            "width": 64,
+            "height": 10
+        },
+        {
+            "id": 150,
+            "content": "MUJERES",
+            "column_min": 855,
+            "row_min": 3388,
+            "column_max": 931,
+            "row_max": 3400,
+            "width": 76,
+            "height": 12
+        },
+        {
+            "id": 151,
+            "content": "EN BUSCA",
+            "column_min": 855,
+            "row_min": 3403,
+            "column_max": 936,
+            "row_max": 3415,
+            "width": 81,
+            "height": 12
+        },
+        {
+            "id": 152,
+            "content": "DE",
+            "column_min": 855,
+            "row_min": 3418,
+            "column_max": 875,
+            "row_max": 3428,
+            "width": 20,
+            "height": 10
+        },
+        {
+            "id": 153,
+            "content": "ESPERANZA",
+            "column_min": 855,
+            "row_min": 3430,
+            "column_max": 952,
+            "row_max": 3444,
+            "width": 97,
+            "height": 14
+        },
+        {
+            "id": 154,
+            "content": "A Concise Compilation Of Career Guidance",
+            "column_min": 1039,
+            "row_min": 3290,
+            "column_max": 1180,
+            "row_max": 3300,
+            "width": 141,
+            "height": 10
+        },
+        {
+            "id": 155,
+            "content": "And Practical Techniques",
+            "column_min": 1038,
+            "row_min": 3304,
+            "column_max": 1125,
+            "row_max": 3313,
+            "width": 87,
+            "height": 9
+        },
+        {
+            "id": 156,
+            "content": "FIND",
+            "column_min": 1039,
+            "row_min": 3336,
+            "column_max": 1177,
+            "row_max": 3372,
+            "width": 138,
+            "height": 36
+        },
+        {
+            "id": 157,
+            "content": "THE",
+            "column_min": 1038,
+            "row_min": 3375,
+            "column_max": 1129,
+            "row_max": 3407,
+            "width": 91,
+            "height": 32
+        },
+        {
+            "id": 158,
+            "content": "LADDER",
+            "column_min": 1042,
+            "row_min": 3412,
+            "column_max": 1144,
+            "row_max": 3432,
+            "width": 102,
+            "height": 20
+        },
+        {
+            "id": 159,
+            "content": "Aimed At Assisting",
+            "column_min": 1038,
+            "row_min": 3447,
+            "column_max": 1095,
+            "row_max": 3453,
+            "width": 57,
+            "height": 6
+        },
+        {
+            "id": 160,
+            "content": "Junior to mid career level",
+            "column_min": 1039,
+            "row_min": 3456,
+            "column_max": 1120,
+            "row_max": 3465,
+            "width": 81,
+            "height": 9
+        },
+        {
+            "id": 161,
+            "content": "Professionals in Discovering",
+            "column_min": 1038,
+            "row_min": 3464,
+            "column_max": 1125,
+            "row_max": 3476,
+            "width": 87,
+            "height": 12
+        },
+        {
+            "id": 162,
+            "content": "The Pathway That Leads To",
+            "column_min": 1039,
+            "row_min": 3475,
+            "column_max": 1119,
+            "row_max": 3484,
+            "width": 80,
+            "height": 9
+        },
+        {
+            "id": 163,
+            "content": "Their Desired Career Goals",
+            "column_min": 1039,
+            "row_min": 3486,
+            "column_max": 1119,
+            "row_max": 3493,
+            "width": 80,
+            "height": 7
+        },
+        {
+            "id": 164,
+            "content": "NADEEM LUTFULLAH",
+            "column_min": 1064,
+            "row_min": 3512,
+            "column_max": 1155,
+            "row_max": 3524,
+            "width": 91,
+            "height": 12
+        },
+        {
+            "id": 165,
+            "content": "Shop activity trackers and",
+            "column_min": 510,
+            "row_min": 3621,
+            "column_max": 830,
+            "row_max": 3650,
+            "width": 320,
+            "height": 29
+        },
+        {
+            "id": 166,
+            "content": "smartwatches",
+            "column_min": 511,
+            "row_min": 3659,
+            "column_max": 685,
+            "row_max": 3680,
+            "width": 174,
+            "height": 21
+        },
+        {
+            "id": 167,
+            "content": "Deals on shoes",
+            "column_min": 973,
+            "row_min": 3625,
+            "column_max": 1153,
+            "row_max": 3645,
+            "width": 180,
+            "height": 20
+        },
+        {
+            "id": 168,
+            "content": "Home Decor",
+            "column_min": 253,
+            "row_min": 3815,
+            "column_max": 338,
+            "row_max": 3826,
+            "width": 85,
+            "height": 11
+        },
+        {
+            "id": 169,
+            "content": "Kitchen",
+            "column_min": 51,
+            "row_min": 3816,
+            "column_max": 100,
+            "row_max": 3826,
+            "width": 49,
+            "height": 10
+        },
+        {
+            "id": 170,
+            "content": "101 1038",
+            "column_min": 632,
+            "row_min": 3820,
+            "column_max": 692,
+            "row_max": 3866,
+            "width": 60,
+            "height": 46
+        },
+        {
+            "id": 171,
+            "content": "Dining",
+            "column_min": 50,
+            "row_min": 4014,
+            "column_max": 94,
+            "row_max": 4028,
+            "width": 44,
+            "height": 14
+        },
+        {
+            "id": 172,
+            "content": "See more",
+            "column_min": 50,
+            "row_min": 4077,
+            "column_max": 118,
+            "row_max": 4091,
+            "width": 68,
+            "height": 14
+        },
+        {
+            "id": 173,
+            "content": "Smart Home",
+            "column_min": 252,
+            "row_min": 4015,
+            "column_max": 338,
+            "row_max": 4026,
+            "width": 86,
+            "height": 11
+        },
+        {
+            "id": 174,
+            "content": "International top sellers in Kitchen",
+            "column_min": 51,
+            "row_min": 4180,
+            "column_max": 479,
+            "row_max": 4204,
+            "width": 428,
+            "height": 24
+        },
+        {
+            "id": 175,
+            "content": "Wed Aug",
+            "column_min": 780,
+            "row_min": 3796,
+            "column_max": 809,
+            "row_max": 3802,
+            "width": 29,
+            "height": 6
+        },
+        {
+            "id": 176,
+            "content": "1258",
+            "column_min": 773,
+            "row_min": 3818,
+            "column_max": 832,
+            "row_max": 3845,
+            "width": 59,
+            "height": 27
+        },
+        {
+            "id": 177,
+            "content": "Shop now",
+            "column_min": 511,
+            "row_min": 4077,
+            "column_max": 583,
+            "row_max": 4092,
+            "width": 72,
+            "height": 15
+        },
+        {
+            "id": 178,
+            "content": "See more",
+            "column_min": 972,
+            "row_min": 4078,
+            "column_max": 1041,
+            "row_max": 4091,
+            "width": 69,
+            "height": 13
+        },
+        {
+            "id": 179,
+            "content": "Popular products in PC internationally",
+            "column_min": 51,
+            "row_min": 4557,
+            "column_max": 526,
+            "row_max": 4581,
+            "width": 475,
+            "height": 24
+        },
+        {
+            "id": 180,
+            "content": "NETGEAR",
+            "column_min": 78,
+            "row_min": 4702,
+            "column_max": 113,
+            "row_max": 4711,
+            "width": 35,
+            "height": 9
+        },
+        {
+            "id": 181,
+            "content": "AMD\u041b",
+            "column_min": 535,
+            "row_min": 4604,
+            "column_max": 581,
+            "row_max": 4618,
+            "width": 46,
+            "height": 14
+        },
+        {
+            "id": 182,
+            "content": "AMD",
+            "column_min": 406,
+            "row_min": 4613,
+            "column_max": 428,
+            "row_max": 4626,
+            "width": 22,
+            "height": 13
+        },
+        {
+            "id": 183,
+            "content": "SanDisk",
+            "column_min": 675,
+            "row_min": 4622,
+            "column_max": 718,
+            "row_max": 4630,
+            "width": 43,
+            "height": 8
+        },
+        {
+            "id": 184,
+            "content": "RYZEN",
+            "column_min": 415,
+            "row_min": 4683,
+            "column_max": 505,
+            "row_max": 4713,
+            "width": 90,
+            "height": 30
+        },
+        {
+            "id": 185,
+            "content": "AMO",
+            "column_min": 561,
+            "row_min": 4695,
+            "column_max": 580,
+            "row_max": 4704,
+            "width": 19,
+            "height": 9
+        },
+        {
+            "id": 186,
+            "content": "RYZEN",
+            "column_min": 560,
+            "row_min": 4703,
+            "column_max": 603,
+            "row_max": 4717,
+            "width": 43,
+            "height": 14
+        },
+        {
+            "id": 187,
+            "content": "Extreme PRO",
+            "column_min": 676,
+            "row_min": 4633,
+            "column_max": 806,
+            "row_max": 4647,
+            "width": 130,
+            "height": 14
+        },
+        {
+            "id": 188,
+            "content": "200 MB / s",
+            "column_min": 674,
+            "row_min": 4660,
+            "column_max": 749,
+            "row_max": 4679,
+            "width": 75,
+            "height": 19
+        },
+        {
+            "id": 189,
+            "content": "30",
+            "column_min": 792,
+            "row_min": 4663,
+            "column_max": 807,
+            "row_max": 4680,
+            "width": 15,
+            "height": 17
+        },
+        {
+            "id": 190,
+            "content": "3\u2469",
+            "column_min": 763,
+            "row_min": 4688,
+            "column_max": 807,
+            "row_max": 4704,
+            "width": 44,
+            "height": 16
+        },
+        {
+            "id": 191,
+            "content": "128",
+            "column_min": 673,
+            "row_min": 4703,
+            "column_max": 743,
+            "row_max": 4745,
+            "width": 70,
+            "height": 42
+        },
+        {
+            "id": 192,
+            "content": "GB",
+            "column_min": 743,
+            "row_min": 4712,
+            "column_max": 774,
+            "row_max": 4748,
+            "width": 31,
+            "height": 36
+        },
+        {
+            "id": 193,
+            "content": "FR",
+            "column_min": 853,
+            "row_min": 4764,
+            "column_max": 866,
+            "row_max": 4772,
+            "width": 13,
+            "height": 8
+        },
+        {
+            "id": 194,
+            "content": "SanDisk",
+            "column_min": 684,
+            "row_min": 4784,
+            "column_max": 794,
+            "row_max": 4805,
+            "width": 110,
+            "height": 21
+        },
+        {
+            "id": 195,
+            "content": "PRI",
+            "column_min": 895,
+            "row_min": 4639,
+            "column_max": 928,
+            "row_max": 4672,
+            "width": 33,
+            "height": 33
+        },
+        {
+            "id": 196,
+            "content": "8660M PRO RS",
+            "column_min": 950,
+            "row_min": 4683,
+            "column_max": 1012,
+            "row_max": 4752,
+            "width": 62,
+            "height": 69
+        },
+        {
+            "id": 197,
+            "content": "Kitchen",
+            "column_min": 1183,
+            "row_min": 4354,
+            "column_max": 1221,
+            "row_max": 4374,
+            "width": 38,
+            "height": 20
+        },
+        {
+            "id": 198,
+            "content": "Shop now",
+            "column_min": 1433,
+            "row_min": 2773,
+            "column_max": 1505,
+            "row_max": 2788,
+            "width": 72,
+            "height": 15
+        },
+        {
+            "id": 199,
+            "content": "Los zapatos del tio Valentin",
+            "column_min": 1228,
+            "row_min": 3294,
+            "column_max": 1381,
+            "row_max": 3316,
+            "width": 153,
+            "height": 22
+        },
+        {
+            "id": 200,
+            "content": "my",
+            "column_min": 1435,
+            "row_min": 3297,
+            "column_max": 1476,
+            "row_max": 3325,
+            "width": 41,
+            "height": 28
+        },
+        {
+            "id": 201,
+            "content": "womb",
+            "column_min": 1481,
+            "row_min": 3289,
+            "column_max": 1561,
+            "row_max": 3320,
+            "width": 80,
+            "height": 31
+        },
+        {
+            "id": 202,
+            "content": "SADAFF HABIB",
+            "column_min": 1466,
+            "row_min": 3327,
+            "column_max": 1528,
+            "row_max": 3333,
+            "width": 62,
+            "height": 6
+        },
+        {
+            "id": 203,
+            "content": "Cuentos",
+            "column_min": 1281,
+            "row_min": 3342,
+            "column_max": 1326,
+            "row_max": 3351,
+            "width": 45,
+            "height": 9
+        },
+        {
+            "id": 204,
+            "content": "Miriam de Le\u00f3n",
+            "column_min": 1268,
+            "row_min": 3512,
+            "column_max": 1339,
+            "row_max": 3522,
+            "width": 71,
+            "height": 10
+        },
+        {
+            "id": 205,
+            "content": "205",
+            "column_min": 1713,
+            "row_min": 2982,
+            "column_max": 1725,
+            "row_max": 2990,
+            "width": 12,
+            "height": 8
+        },
+        {
+            "id": 206,
+            "content": "SPACE",
+            "column_min": 1724,
+            "row_min": 2935,
+            "column_max": 1749,
+            "row_max": 2945,
+            "width": 25,
+            "height": 10
+        },
+        {
+            "id": 207,
+            "content": "Dichos de",
+            "column_min": 1616,
+            "row_min": 3294,
+            "column_max": 1745,
+            "row_max": 3317,
+            "width": 129,
+            "height": 23
+        },
+        {
+            "id": 208,
+            "content": "Job",
+            "column_min": 1617,
+            "row_min": 3327,
+            "column_max": 1666,
+            "row_max": 3349,
+            "width": 49,
+            "height": 22
+        },
+        {
+            "id": 209,
+            "content": "versi\u00f3n Coro SATB",
+            "column_min": 1623,
+            "row_min": 3394,
+            "column_max": 1726,
+            "row_max": 3407,
+            "width": 103,
+            "height": 13
+        },
+        {
+            "id": 210,
+            "content": "Piano",
+            "column_min": 1740,
+            "row_min": 3394,
+            "column_max": 1771,
+            "row_max": 3407,
+            "width": 31,
+            "height": 13
+        },
+        {
+            "id": 211,
+            "content": "Leslie Miguel G\u00f3mez Cordero",
+            "column_min": 1616,
+            "row_min": 3413,
+            "column_max": 1775,
+            "row_max": 3427,
+            "width": 159,
+            "height": 14
+        },
+        {
+            "id": 212,
+            "content": "Level up your gaming",
+            "column_min": 1434,
+            "row_min": 3623,
+            "column_max": 1699,
+            "row_max": 3651,
+            "width": 265,
+            "height": 28
+        },
+        {
+            "id": 213,
+            "content": "PC gaming",
+            "column_min": 1434,
+            "row_min": 3813,
+            "column_max": 1506,
+            "row_max": 3829,
+            "width": 72,
+            "height": 16
+        },
+        {
+            "id": 214,
+            "content": "Xbox",
+            "column_min": 1635,
+            "row_min": 3815,
+            "column_max": 1670,
+            "row_max": 3826,
+            "width": 35,
+            "height": 11
+        },
+        {
+            "id": 215,
+            "content": "PS5",
+            "column_min": 1475,
+            "row_min": 3878,
+            "column_max": 1499,
+            "row_max": 3885,
+            "width": 24,
+            "height": 7
+        },
+        {
+            "id": 216,
+            "content": "OUTLAWS",
+            "column_min": 1467,
+            "row_min": 3900,
+            "column_max": 1543,
+            "row_max": 3924,
+            "width": 76,
+            "height": 24
+        },
+        {
+            "id": 217,
+            "content": "PlayStation",
+            "column_min": 1433,
+            "row_min": 4015,
+            "column_max": 1511,
+            "row_max": 4028,
+            "width": 78,
+            "height": 13
+        },
+        {
+            "id": 218,
+            "content": "Shop the latest in gaming",
+            "column_min": 1432,
+            "row_min": 4077,
+            "column_max": 1623,
+            "row_max": 4093,
+            "width": 191,
+            "height": 16
+        },
+        {
+            "id": 219,
+            "content": "SONIC",
+            "column_min": 1687,
+            "row_min": 3888,
+            "column_max": 1723,
+            "row_max": 3899,
+            "width": 36,
+            "height": 11
+        },
+        {
+            "id": 220,
+            "content": "Nintendo Switch",
+            "column_min": 1636,
+            "row_min": 4014,
+            "column_max": 1746,
+            "row_max": 4026,
+            "width": 110,
+            "height": 12
+        },
+        {
+            "id": 221,
+            "content": "Kingston",
+            "column_min": 1219,
+            "row_min": 4679,
+            "column_max": 1269,
+            "row_max": 4695,
+            "width": 50,
+            "height": 16
+        },
+        {
+            "id": 222,
+            "content": "WARRANTY VOID",
+            "column_min": 1290,
+            "row_min": 4675,
+            "column_max": 1337,
+            "row_max": 4691,
+            "width": 47,
+            "height": 16
+        },
+        {
+            "id": 223,
+            "content": "IF REMOVED",
+            "column_min": 1335,
+            "row_min": 4674,
+            "column_max": 1369,
+            "row_max": 4688,
+            "width": 34,
+            "height": 14
+        },
+        {
+            "id": 224,
+            "content": "SAMSUNO",
+            "column_min": 1640,
+            "row_min": 4682,
+            "column_max": 1677,
+            "row_max": 4689,
+            "width": 37,
+            "height": 7
+        },
+        {
+            "id": 225,
+            "content": "1TB",
+            "column_min": 1467,
+            "row_min": 4686,
+            "column_max": 1481,
+            "row_max": 4694,
+            "width": 14,
+            "height": 8
+        },
+        {
+            "id": 226,
+            "content": "NAND SSD",
+            "column_min": 1648,
+            "row_min": 4692,
+            "column_max": 1677,
+            "row_max": 4697,
+            "width": 29,
+            "height": 5
+        },
+        {
+            "id": 227,
+            "content": "NV2 ONVMe",
+            "column_min": 1224,
+            "row_min": 4701,
+            "column_max": 1271,
+            "row_max": 4719,
+            "width": 47,
+            "height": 18
+        },
+        {
+            "id": 228,
+            "content": "990EVO",
+            "column_min": 1641,
+            "row_min": 4698,
+            "column_max": 1676,
+            "row_max": 4709,
+            "width": 35,
+            "height": 11
+        },
+        {
+            "id": 229,
+            "content": "M.2",
+            "column_min": 1272,
+            "row_min": 4711,
+            "column_max": 1283,
+            "row_max": 4719,
+            "width": 11,
+            "height": 8
+        },
+        {
+            "id": 230,
+            "content": "CECA",
+            "column_min": 1220,
+            "row_min": 4724,
+            "column_max": 1280,
+            "row_max": 4748,
+            "width": 60,
+            "height": 24
+        },
+        {
+            "id": 231,
+            "content": "eFc nvmM",
+            "column_min": 1306,
+            "row_min": 4724,
+            "column_max": 1401,
+            "row_max": 4738,
+            "width": 95,
+            "height": 14
+        },
+        {
+            "id": 232,
+            "content": "2TB",
+            "column_min": 1702,
+            "row_min": 4730,
+            "column_max": 1720,
+            "row_max": 4738,
+            "width": 18,
+            "height": 8
+        },
+        {
+            "id": 233,
+            "content": "Creating business solutions",
+            "column_min": 50,
+            "row_min": 4927,
+            "column_max": 385,
+            "row_max": 4954,
+            "width": 335,
+            "height": 27
+        },
+        {
+            "id": 234,
+            "content": "Level up your beauty routine",
+            "column_min": 511,
+            "row_min": 4928,
+            "column_max": 866,
+            "row_max": 4955,
+            "width": 355,
+            "height": 27
+        },
+        {
+            "id": 235,
+            "content": "Laptops for every need",
+            "column_min": 972,
+            "row_min": 4932,
+            "column_max": 1257,
+            "row_max": 4954,
+            "width": 285,
+            "height": 22
+        },
+        {
+            "id": 236,
+            "content": "Warm & welcoming decor",
+            "column_min": 1432,
+            "row_min": 4931,
+            "column_max": 1751,
+            "row_max": 4954,
+            "width": 319,
+            "height": 23
+        },
+        {
+            "id": 237,
+            "content": "See more software products",
+            "column_min": 50,
+            "row_min": 5381,
+            "column_max": 258,
+            "row_max": 5395,
+            "width": 208,
+            "height": 14
+        },
+        {
+            "id": 238,
+            "content": "Omi =",
+            "column_min": 275,
+            "row_min": 5073,
+            "column_max": 324,
+            "row_max": 5089,
+            "width": 49,
+            "height": 16
+        },
+        {
+            "id": 239,
+            "content": "Makeup",
+            "column_min": 512,
+            "row_min": 5119,
+            "column_max": 565,
+            "row_max": 5134,
+            "width": 53,
+            "height": 15
+        },
+        {
+            "id": 240,
+            "content": "Brushes",
+            "column_min": 714,
+            "row_min": 5121,
+            "column_max": 766,
+            "row_max": 5131,
+            "width": 52,
+            "height": 10
+        },
+        {
+            "id": 241,
+            "content": "Top Sellers in Toys for you",
+            "column_min": 50,
+            "row_min": 5484,
+            "column_max": 373,
+            "row_max": 5508,
+            "width": 323,
+            "height": 24
+        },
+        {
+            "id": 242,
+            "content": "120",
+            "column_min": 248,
+            "row_min": 5515,
+            "column_max": 269,
+            "row_max": 5524,
+            "width": 21,
+            "height": 9
+        },
+        {
+            "id": 243,
+            "content": "Crayola",
+            "column_min": 310,
+            "row_min": 5524,
+            "column_max": 371,
+            "row_max": 5554,
+            "width": 61,
+            "height": 30
+        },
+        {
+            "id": 244,
+            "content": "Washablicy You",
+            "column_min": 308,
+            "row_min": 5590,
+            "column_max": 351,
+            "row_max": 5600,
+            "width": 43,
+            "height": 10
+        },
+        {
+            "id": 245,
+            "content": "Can Dra",
+            "column_min": 351,
+            "row_min": 5592,
+            "column_max": 373,
+            "row_max": 5600,
+            "width": 22,
+            "height": 8
+        },
+        {
+            "id": 246,
+            "content": "Super",
+            "column_min": 282,
+            "row_min": 5599,
+            "column_max": 389,
+            "row_max": 5632,
+            "width": 107,
+            "height": 33
+        },
+        {
+            "id": 247,
+            "content": "Tips",
+            "column_min": 334,
+            "row_min": 5633,
+            "column_max": 405,
+            "row_max": 5663,
+            "width": 71,
+            "height": 30
+        },
+        {
+            "id": 248,
+            "content": "Washable Markers",
+            "column_min": 287,
+            "row_min": 5665,
+            "column_max": 399,
+            "row_max": 5677,
+            "width": 112,
+            "height": 12
+        },
+        {
+            "id": 249,
+            "content": "100",
+            "column_min": 294,
+            "row_min": 5699,
+            "column_max": 344,
+            "row_max": 5722,
+            "width": 50,
+            "height": 23
+        },
+        {
+            "id": 250,
+            "content": "Silly Ecents",
+            "column_min": 350,
+            "row_min": 5702,
+            "column_max": 383,
+            "row_max": 5727,
+            "width": 33,
+            "height": 25
+        },
+        {
+            "id": 251,
+            "content": "Colors !",
+            "column_min": 303,
+            "row_min": 5724,
+            "column_max": 336,
+            "row_max": 5731,
+            "width": 33,
+            "height": 7
+        },
+        {
+            "id": 252,
+            "content": "Sponges",
+            "column_min": 511,
+            "row_min": 5320,
+            "column_max": 568,
+            "row_max": 5333,
+            "width": 57,
+            "height": 13
+        },
+        {
+            "id": 253,
+            "content": "Mirrors",
+            "column_min": 714,
+            "row_min": 5319,
+            "column_max": 762,
+            "row_max": 5331,
+            "width": 48,
+            "height": 12
+        },
+        {
+            "id": 254,
+            "content": "See more",
+            "column_min": 511,
+            "row_min": 5382,
+            "column_max": 580,
+            "row_max": 5395,
+            "width": 69,
+            "height": 13
+        },
+        {
+            "id": 255,
+            "content": "Wreaths & garlands",
+            "column_min": 1432,
+            "row_min": 5118,
+            "column_max": 1567,
+            "row_max": 5134,
+            "width": 135,
+            "height": 16
+        },
+        {
+            "id": 256,
+            "content": "Outdoor decor",
+            "column_min": 1636,
+            "row_min": 5119,
+            "column_max": 1735,
+            "row_max": 5132,
+            "width": 99,
+            "height": 13
+        },
+        {
+            "id": 257,
+            "content": "Pillows & throws",
+            "column_min": 1433,
+            "row_min": 5320,
+            "column_max": 1547,
+            "row_max": 5331,
+            "width": 114,
+            "height": 11
+        },
+        {
+            "id": 258,
+            "content": "Wall art & mirrors",
+            "column_min": 1635,
+            "row_min": 5320,
+            "column_max": 1757,
+            "row_max": 5331,
+            "width": 122,
+            "height": 11
+        },
+        {
+            "id": 259,
+            "content": "Find your laptop here",
+            "column_min": 973,
+            "row_min": 5380,
+            "column_max": 1130,
+            "row_max": 5396,
+            "width": 157,
+            "height": 16
+        },
+        {
+            "id": 260,
+            "content": "Shop more fall finds",
+            "column_min": 1432,
+            "row_min": 5380,
+            "column_max": 1582,
+            "row_max": 5396,
+            "width": 150,
+            "height": 16
+        },
+        {
+            "id": 261,
+            "content": "Number",
+            "column_min": 847,
+            "row_min": 5524,
+            "column_max": 914,
+            "row_max": 5544,
+            "width": 67,
+            "height": 20
+        },
+        {
+            "id": 262,
+            "content": "pieces",
+            "column_min": 960,
+            "row_min": 5551,
+            "column_max": 984,
+            "row_max": 5564,
+            "width": 24,
+            "height": 13
+        },
+        {
+            "id": 263,
+            "content": "Ages",
+            "column_min": 1351,
+            "row_min": 5558,
+            "column_max": 1371,
+            "row_max": 5569,
+            "width": 20,
+            "height": 11
+        },
+        {
+            "id": 264,
+            "content": "8+",
+            "column_min": 1351,
+            "row_min": 5571,
+            "column_max": 1371,
+            "row_max": 5585,
+            "width": 20,
+            "height": 14
+        },
+        {
+            "id": 265,
+            "content": "SPY",
+            "column_min": 1085,
+            "row_min": 5575,
+            "column_max": 1151,
+            "row_max": 5604,
+            "width": 66,
+            "height": 29
+        },
+        {
+            "id": 266,
+            "content": "00",
+            "column_min": 878,
+            "row_min": 5657,
+            "column_max": 905,
+            "row_max": 5673,
+            "width": 27,
+            "height": 16
+        },
+        {
+            "id": 267,
+            "content": "You COUNT can",
+            "column_min": 991,
+            "row_min": 5651,
+            "column_max": 1020,
+            "row_max": 5668,
+            "width": 29,
+            "height": 17
+        },
+        {
+            "id": 268,
+            "content": "on us",
+            "column_min": 995,
+            "row_min": 5667,
+            "column_max": 1015,
+            "row_max": 5676,
+            "width": 20,
+            "height": 9
+        },
+        {
+            "id": 269,
+            "content": "LABS",
+            "column_min": 1084,
+            "row_min": 5605,
+            "column_max": 1143,
+            "row_max": 5625,
+            "width": 59,
+            "height": 20
+        },
+        {
+            "id": 270,
+            "content": "INCORPORATED",
+            "column_min": 1081,
+            "row_min": 5624,
+            "column_max": 1139,
+            "row_max": 5632,
+            "width": 58,
+            "height": 8
+        },
+        {
+            "id": 271,
+            "content": "Numberblocks",
+            "column_min": 905,
+            "row_min": 5720,
+            "column_max": 951,
+            "row_max": 5732,
+            "width": 46,
+            "height": 12
+        },
+        {
+            "id": 272,
+            "content": "Friends",
+            "column_min": 952,
+            "row_min": 5719,
+            "column_max": 976,
+            "row_max": 5729,
+            "width": 24,
+            "height": 10
+        },
+        {
+            "id": 273,
+            "content": "One to",
+            "column_min": 976,
+            "row_min": 5718,
+            "column_max": 998,
+            "row_max": 5727,
+            "width": 22,
+            "height": 9
+        },
+        {
+            "id": 274,
+            "content": "Flee",
+            "column_min": 998,
+            "row_min": 5716,
+            "column_max": 1013,
+            "row_max": 5726,
+            "width": 15,
+            "height": 10
+        },
+        {
+            "id": 275,
+            "content": "Fingerprinting Kit",
+            "column_min": 1080,
+            "row_min": 5697,
+            "column_max": 1271,
+            "row_max": 5734,
+            "width": 191,
+            "height": 37
+        },
+        {
+            "id": 276,
+            "content": "Dust for fingerprints and identify your suspects",
+            "column_min": 1081,
+            "row_min": 5734,
+            "column_max": 1269,
+            "row_max": 5748,
+            "width": 188,
+            "height": 14
+        },
+        {
+            "id": 277,
+            "content": "See personalized recommendations",
+            "column_min": 803,
+            "row_min": 5935,
+            "column_max": 1066,
+            "row_max": 5949,
+            "width": 263,
+            "height": 14
+        },
+        {
+            "id": 278,
+            "content": "Sign in",
+            "column_min": 910,
+            "row_min": 5970,
+            "column_max": 958,
+            "row_max": 5983,
+            "width": 48,
+            "height": 13
+        },
+        {
+            "id": 279,
+            "content": "New customer ? Start here .",
+            "column_min": 853,
+            "row_min": 6002,
+            "column_max": 1017,
+            "row_max": 6012,
+            "width": 164,
+            "height": 10
+        },
+        {
+            "id": 280,
+            "content": "Back to top",
+            "column_min": 892,
+            "row_min": 6086,
+            "column_max": 977,
+            "row_max": 6105,
+            "width": 85,
+            "height": 19
+        },
+        {
+            "id": 281,
+            "content": "Get to Know Us",
+            "column_min": 322,
+            "row_min": 6187,
+            "column_max": 468,
+            "row_max": 6201,
+            "width": 146,
+            "height": 14
+        },
+        {
+            "id": 282,
+            "content": "Careers",
+            "column_min": 322,
+            "row_min": 6225,
+            "column_max": 382,
+            "row_max": 6238,
+            "width": 60,
+            "height": 13
+        },
+        {
+            "id": 283,
+            "content": "Blog",
+            "column_min": 322,
+            "row_min": 6259,
+            "column_max": 358,
+            "row_max": 6274,
+            "width": 36,
+            "height": 15
+        },
+        {
+            "id": 284,
+            "content": "About Amazon",
+            "column_min": 321,
+            "row_min": 6291,
+            "column_max": 440,
+            "row_max": 6306,
+            "width": 119,
+            "height": 15
+        },
+        {
+            "id": 285,
+            "content": "Investor Relations",
+            "column_min": 322,
+            "row_min": 6326,
+            "column_max": 464,
+            "row_max": 6339,
+            "width": 142,
+            "height": 13
+        },
+        {
+            "id": 286,
+            "content": "Amazon Devices",
+            "column_min": 321,
+            "row_min": 6359,
+            "column_max": 451,
+            "row_max": 6372,
+            "width": 130,
+            "height": 13
+        },
+        {
+            "id": 287,
+            "content": "Amazon Science",
+            "column_min": 321,
+            "row_min": 6393,
+            "column_max": 451,
+            "row_max": 6406,
+            "width": 130,
+            "height": 13
+        },
+        {
+            "id": 288,
+            "content": "Make Money with Us",
+            "column_min": 617,
+            "row_min": 6187,
+            "column_max": 812,
+            "row_max": 6204,
+            "width": 195,
+            "height": 17
+        },
+        {
+            "id": 289,
+            "content": "Sell products on Amazon",
+            "column_min": 617,
+            "row_min": 6225,
+            "column_max": 814,
+            "row_max": 6241,
+            "width": 197,
+            "height": 16
+        },
+        {
+            "id": 290,
+            "content": "Sell on Amazon Business",
+            "column_min": 617,
+            "row_min": 6259,
+            "column_max": 813,
+            "row_max": 6272,
+            "width": 196,
+            "height": 13
+        },
+        {
+            "id": 291,
+            "content": "Sell apps on Amazon",
+            "column_min": 616,
+            "row_min": 6290,
+            "column_max": 782,
+            "row_max": 6309,
+            "width": 166,
+            "height": 19
+        },
+        {
+            "id": 292,
+            "content": "Become an Affiliate",
+            "column_min": 617,
+            "row_min": 6326,
+            "column_max": 772,
+            "row_max": 6339,
+            "width": 155,
+            "height": 13
+        },
+        {
+            "id": 293,
+            "content": "Advertise Your Products",
+            "column_min": 615,
+            "row_min": 6357,
+            "column_max": 808,
+            "row_max": 6372,
+            "width": 193,
+            "height": 15
+        },
+        {
+            "id": 294,
+            "content": "Self Publish with Us",
+            "column_min": 616,
+            "row_min": 6392,
+            "column_max": 778,
+            "row_max": 6406,
+            "width": 162,
+            "height": 14
+        },
+        {
+            "id": 295,
+            "content": "Host an Amazon Hub",
+            "column_min": 617,
+            "row_min": 6426,
+            "column_max": 787,
+            "row_max": 6440,
+            "width": 170,
+            "height": 14
+        },
+        {
+            "id": 296,
+            "content": "See More Make Money",
+            "column_min": 628,
+            "row_min": 6458,
+            "column_max": 809,
+            "row_max": 6476,
+            "width": 181,
+            "height": 18
+        },
+        {
+            "id": 297,
+            "content": "with Us",
+            "column_min": 616,
+            "row_min": 6481,
+            "column_max": 679,
+            "row_max": 6494,
+            "width": 63,
+            "height": 13
+        },
+        {
+            "id": 298,
+            "content": "Amazon Payment Products",
+            "column_min": 972,
+            "row_min": 6186,
+            "column_max": 1224,
+            "row_max": 6204,
+            "width": 252,
+            "height": 18
+        },
+        {
+            "id": 299,
+            "content": "Amazon Business Card",
+            "column_min": 972,
+            "row_min": 6224,
+            "column_max": 1149,
+            "row_max": 6238,
+            "width": 177,
+            "height": 14
+        },
+        {
+            "id": 300,
+            "content": "Shop with Points",
+            "column_min": 972,
+            "row_min": 6256,
+            "column_max": 1107,
+            "row_max": 6274,
+            "width": 135,
+            "height": 18
+        },
+        {
+            "id": 301,
+            "content": "Reload Your Balance",
+            "column_min": 973,
+            "row_min": 6291,
+            "column_max": 1135,
+            "row_max": 6305,
+            "width": 162,
+            "height": 14
+        },
+        {
+            "id": 302,
+            "content": "Amazon Currency Converter",
+            "column_min": 972,
+            "row_min": 6326,
+            "column_max": 1196,
+            "row_max": 6341,
+            "width": 224,
+            "height": 15
+        },
+        {
+            "id": 303,
+            "content": "Amazon Music",
+            "column_min": 320,
+            "row_min": 6767,
+            "column_max": 420,
+            "row_max": 6778,
+            "width": 100,
+            "height": 11
+        },
+        {
+            "id": 304,
+            "content": "Stream millions",
+            "column_min": 320,
+            "row_min": 6783,
+            "column_max": 427,
+            "row_max": 6794,
+            "width": 107,
+            "height": 11
+        },
+        {
+            "id": 305,
+            "content": "of songs",
+            "column_min": 321,
+            "row_min": 6800,
+            "column_max": 379,
+            "row_max": 6812,
+            "width": 58,
+            "height": 12
+        },
+        {
+            "id": 306,
+            "content": "amazon",
+            "column_min": 566,
+            "row_min": 6642,
+            "column_max": 661,
+            "row_max": 6657,
+            "width": 95,
+            "height": 15
+        },
+        {
+            "id": 307,
+            "content": "Amazon Ads",
+            "column_min": 502,
+            "row_min": 6766,
+            "column_max": 586,
+            "row_max": 6778,
+            "width": 84,
+            "height": 12
+        },
+        {
+            "id": 308,
+            "content": "Reach customers",
+            "column_min": 503,
+            "row_min": 6783,
+            "column_max": 617,
+            "row_max": 6795,
+            "width": 114,
+            "height": 12
+        },
+        {
+            "id": 309,
+            "content": "wherever they",
+            "column_min": 502,
+            "row_min": 6797,
+            "column_max": 600,
+            "row_max": 6813,
+            "width": 98,
+            "height": 16
+        },
+        {
+            "id": 310,
+            "content": "spend their time",
+            "column_min": 502,
+            "row_min": 6816,
+            "column_max": 613,
+            "row_max": 6829,
+            "width": 111,
+            "height": 13
+        },
+        {
+            "id": 311,
+            "content": "6pm",
+            "column_min": 691,
+            "row_min": 6767,
+            "column_max": 720,
+            "row_max": 6780,
+            "width": 29,
+            "height": 13
+        },
+        {
+            "id": 312,
+            "content": "Score deals",
+            "column_min": 691,
+            "row_min": 6782,
+            "column_max": 768,
+            "row_max": 6794,
+            "width": 77,
+            "height": 12
+        },
+        {
+            "id": 313,
+            "content": "on fashion",
+            "column_min": 691,
+            "row_min": 6799,
+            "column_max": 762,
+            "row_max": 6812,
+            "width": 71,
+            "height": 13
+        },
+        {
+            "id": 314,
+            "content": "brands",
+            "column_min": 691,
+            "row_min": 6816,
+            "column_max": 737,
+            "row_max": 6827,
+            "width": 46,
+            "height": 11
+        },
+        {
+            "id": 315,
+            "content": "AmazonGlobal",
+            "column_min": 320,
+            "row_min": 6887,
+            "column_max": 421,
+            "row_max": 6899,
+            "width": 101,
+            "height": 12
+        },
+        {
+            "id": 316,
+            "content": "Ship Orders",
+            "column_min": 320,
+            "row_min": 6900,
+            "column_max": 400,
+            "row_max": 6917,
+            "width": 80,
+            "height": 17
+        },
+        {
+            "id": 317,
+            "content": "Internationally",
+            "column_min": 321,
+            "row_min": 6920,
+            "column_max": 422,
+            "row_max": 6933,
+            "width": 101,
+            "height": 13
+        },
+        {
+            "id": 318,
+            "content": "Home Services",
+            "column_min": 503,
+            "row_min": 6886,
+            "column_max": 601,
+            "row_max": 6898,
+            "width": 98,
+            "height": 12
+        },
+        {
+            "id": 319,
+            "content": "Experienced Pros",
+            "column_min": 503,
+            "row_min": 6903,
+            "column_max": 618,
+            "row_max": 6915,
+            "width": 115,
+            "height": 12
+        },
+        {
+            "id": 320,
+            "content": "Happiness",
+            "column_min": 503,
+            "row_min": 6920,
+            "column_max": 572,
+            "row_max": 6933,
+            "width": 69,
+            "height": 13
+        },
+        {
+            "id": 321,
+            "content": "Guarantee",
+            "column_min": 503,
+            "row_min": 6936,
+            "column_max": 573,
+            "row_max": 6949,
+            "width": 70,
+            "height": 13
+        },
+        {
+            "id": 322,
+            "content": "IMDbPro",
+            "column_min": 321,
+            "row_min": 6990,
+            "column_max": 381,
+            "row_max": 7003,
+            "width": 60,
+            "height": 13
+        },
+        {
+            "id": 323,
+            "content": "Get Info",
+            "column_min": 321,
+            "row_min": 7007,
+            "column_max": 377,
+            "row_max": 7018,
+            "width": 56,
+            "height": 11
+        },
+        {
+            "id": 324,
+            "content": "Entertainment",
+            "column_min": 321,
+            "row_min": 7023,
+            "column_max": 421,
+            "row_max": 7034,
+            "width": 100,
+            "height": 11
+        },
+        {
+            "id": 325,
+            "content": "Professionals",
+            "column_min": 321,
+            "row_min": 7038,
+            "column_max": 411,
+            "row_max": 7052,
+            "width": 90,
+            "height": 14
+        },
+        {
+            "id": 326,
+            "content": "Need",
+            "column_min": 320,
+            "row_min": 7053,
+            "column_max": 356,
+            "row_max": 7068,
+            "width": 36,
+            "height": 15
+        },
+        {
+            "id": 327,
+            "content": "Kindle Direct",
+            "column_min": 503,
+            "row_min": 6990,
+            "column_max": 589,
+            "row_max": 7003,
+            "width": 86,
+            "height": 13
+        },
+        {
+            "id": 328,
+            "content": "Publishing",
+            "column_min": 503,
+            "row_min": 7006,
+            "column_max": 574,
+            "row_max": 7021,
+            "width": 71,
+            "height": 15
+        },
+        {
+            "id": 329,
+            "content": "Indie Digital &",
+            "column_min": 502,
+            "row_min": 7025,
+            "column_max": 598,
+            "row_max": 7036,
+            "width": 96,
+            "height": 11
+        },
+        {
+            "id": 330,
+            "content": "Print Publishing",
+            "column_min": 503,
+            "row_min": 7038,
+            "column_max": 610,
+            "row_max": 7055,
+            "width": 107,
+            "height": 17
+        },
+        {
+            "id": 331,
+            "content": "Made Easy",
+            "column_min": 503,
+            "row_min": 7056,
+            "column_max": 575,
+            "row_max": 7071,
+            "width": 72,
+            "height": 15
+        },
+        {
+            "id": 332,
+            "content": "eero WiFi",
+            "column_min": 502,
+            "row_min": 7093,
+            "column_max": 565,
+            "row_max": 7106,
+            "width": 63,
+            "height": 13
+        },
+        {
+            "id": 333,
+            "content": "Stream 4K Video",
+            "column_min": 502,
+            "row_min": 7109,
+            "column_max": 616,
+            "row_max": 7122,
+            "width": 114,
+            "height": 13
+        },
+        {
+            "id": 334,
+            "content": "in Every Room",
+            "column_min": 502,
+            "row_min": 7126,
+            "column_max": 597,
+            "row_max": 7141,
+            "width": 95,
+            "height": 15
+        },
+        {
+            "id": 335,
+            "content": "English",
+            "column_min": 809,
+            "row_min": 6641,
+            "column_max": 864,
+            "row_max": 6657,
+            "width": 55,
+            "height": 16
+        },
+        {
+            "id": 336,
+            "content": "$ USD U.S. Dollar",
+            "column_min": 936,
+            "row_min": 6643,
+            "column_max": 1081,
+            "row_max": 6656,
+            "width": 145,
+            "height": 13
+        },
+        {
+            "id": 337,
+            "content": "United States",
+            "column_min": 1164,
+            "row_min": 6643,
+            "column_max": 1265,
+            "row_max": 6657,
+            "width": 101,
+            "height": 14
+        },
+        {
+            "id": 338,
+            "content": "AbeBooks",
+            "column_min": 856,
+            "row_min": 6767,
+            "column_max": 924,
+            "row_max": 6778,
+            "width": 68,
+            "height": 11
+        },
+        {
+            "id": 339,
+            "content": "Books , art",
+            "column_min": 858,
+            "row_min": 6783,
+            "column_max": 926,
+            "row_max": 6794,
+            "width": 68,
+            "height": 11
+        },
+        {
+            "id": 340,
+            "content": "ACX",
+            "column_min": 1041,
+            "row_min": 6767,
+            "column_max": 1070,
+            "row_max": 6778,
+            "width": 29,
+            "height": 11
+        },
+        {
+            "id": 341,
+            "content": "& collectibles",
+            "column_min": 856,
+            "row_min": 6800,
+            "column_max": 948,
+            "row_max": 6811,
+            "width": 92,
+            "height": 11
+        },
+        {
+            "id": 342,
+            "content": "Audiobook Publishing",
+            "column_min": 1041,
+            "row_min": 6781,
+            "column_max": 1191,
+            "row_max": 6797,
+            "width": 150,
+            "height": 16
+        },
+        {
+            "id": 343,
+            "content": "Made Easy",
+            "column_min": 1042,
+            "row_min": 6799,
+            "column_max": 1114,
+            "row_max": 6813,
+            "width": 72,
+            "height": 14
+        },
+        {
+            "id": 344,
+            "content": "THAMES",
+            "column_min": 1366,
+            "row_min": 5695,
+            "column_max": 1374,
+            "row_max": 5732,
+            "width": 8,
+            "height": 37
+        },
+        {
+            "id": 345,
+            "content": "&",
+            "column_min": 1366,
+            "row_min": 5687,
+            "column_max": 1374,
+            "row_max": 5694,
+            "width": 8,
+            "height": 7
+        },
+        {
+            "id": 346,
+            "content": "KOSMOS",
+            "column_min": 1366,
+            "row_min": 5648,
+            "column_max": 1374,
+            "row_max": 5685,
+            "width": 8,
+            "height": 37
+        },
+        {
+            "id": 347,
+            "content": "Let Us Help You",
+            "column_min": 1376,
+            "row_min": 6187,
+            "column_max": 1523,
+            "row_max": 6204,
+            "width": 147,
+            "height": 17
+        },
+        {
+            "id": 348,
+            "content": "Amazon and COVID-",
+            "column_min": 1374,
+            "row_min": 6225,
+            "column_max": 1538,
+            "row_max": 6238,
+            "width": 164,
+            "height": 13
+        },
+        {
+            "id": 349,
+            "content": "19",
+            "column_min": 1376,
+            "row_min": 6247,
+            "column_max": 1395,
+            "row_max": 6259,
+            "width": 19,
+            "height": 12
+        },
+        {
+            "id": 350,
+            "content": "Your Account",
+            "column_min": 1374,
+            "row_min": 6280,
+            "column_max": 1481,
+            "row_max": 6293,
+            "width": 107,
+            "height": 13
+        },
+        {
+            "id": 351,
+            "content": "Your Orders",
+            "column_min": 1374,
+            "row_min": 6314,
+            "column_max": 1470,
+            "row_max": 6327,
+            "width": 96,
+            "height": 13
+        },
+        {
+            "id": 352,
+            "content": "Shipping Rates &",
+            "column_min": 1374,
+            "row_min": 6347,
+            "column_max": 1511,
+            "row_max": 6363,
+            "width": 137,
+            "height": 16
+        },
+        {
+            "id": 353,
+            "content": "Policies",
+            "column_min": 1376,
+            "row_min": 6367,
+            "column_max": 1435,
+            "row_max": 6383,
+            "width": 59,
+            "height": 16
+        },
+        {
+            "id": 354,
+            "content": "Returns &",
+            "column_min": 1375,
+            "row_min": 6402,
+            "column_max": 1453,
+            "row_max": 6415,
+            "width": 78,
+            "height": 13
+        },
+        {
+            "id": 355,
+            "content": "Replacements",
+            "column_min": 1375,
+            "row_min": 6420,
+            "column_max": 1486,
+            "row_max": 6438,
+            "width": 111,
+            "height": 18
+        },
+        {
+            "id": 356,
+            "content": "Manage Your",
+            "column_min": 1375,
+            "row_min": 6455,
+            "column_max": 1479,
+            "row_max": 6472,
+            "width": 104,
+            "height": 17
+        },
+        {
+            "id": 357,
+            "content": "Content and Devices",
+            "column_min": 1375,
+            "row_min": 6477,
+            "column_max": 1538,
+            "row_max": 6491,
+            "width": 163,
+            "height": 14
+        },
+        {
+            "id": 358,
+            "content": "Help rep",
+            "column_min": 1375,
+            "row_min": 6489,
+            "column_max": 1415,
+            "row_max": 6533,
+            "width": 40,
+            "height": 44
+        },
+        {
+            "id": 359,
+            "content": "Sell on Amazon",
+            "column_min": 1263,
+            "row_min": 6766,
+            "column_max": 1368,
+            "row_max": 6779,
+            "width": 105,
+            "height": 13
+        },
+        {
+            "id": 360,
+            "content": "Start a Selling",
+            "column_min": 1263,
+            "row_min": 6783,
+            "column_max": 1360,
+            "row_max": 6796,
+            "width": 97,
+            "height": 13
+        },
+        {
+            "id": 361,
+            "content": "Amazon",
+            "column_min": 1458,
+            "row_min": 6766,
+            "column_max": 1512,
+            "row_max": 6778,
+            "width": 54,
+            "height": 12
+        },
+        {
+            "id": 362,
+            "content": "Account",
+            "column_min": 1263,
+            "row_min": 6801,
+            "column_max": 1319,
+            "row_max": 6811,
+            "width": 56,
+            "height": 10
+        },
+        {
+            "id": 363,
+            "content": "Business",
+            "column_min": 1459,
+            "row_min": 6783,
+            "column_max": 1515,
+            "row_max": 6795,
+            "width": 56,
+            "height": 12
+        },
+        {
+            "id": 364,
+            "content": "Everything",
+            "column_min": 1459,
+            "row_min": 6801,
+            "column_max": 1532,
+            "row_max": 6815,
+            "width": 73,
+            "height": 14
+        },
+        {
+            "id": 365,
+            "content": "For",
+            "column_min": 1459,
+            "row_min": 6818,
+            "column_max": 1481,
+            "row_max": 6828,
+            "width": 22,
+            "height": 10
+        },
+        {
+            "id": 366,
+            "content": "Your",
+            "column_min": 1458,
+            "row_min": 6834,
+            "column_max": 1490,
+            "row_max": 6845,
+            "width": 32,
+            "height": 11
+        },
+        {
+            "id": 367,
+            "content": "Amazon Web",
+            "column_min": 690,
+            "row_min": 6887,
+            "column_max": 782,
+            "row_max": 6898,
+            "width": 92,
+            "height": 11
+        },
+        {
+            "id": 368,
+            "content": "Services",
+            "column_min": 691,
+            "row_min": 6903,
+            "column_max": 746,
+            "row_max": 6915,
+            "width": 55,
+            "height": 12
+        },
+        {
+            "id": 369,
+            "content": "Audible",
+            "column_min": 857,
+            "row_min": 6887,
+            "column_max": 909,
+            "row_max": 6898,
+            "width": 52,
+            "height": 11
+        },
+        {
+            "id": 370,
+            "content": "Scalable Cloud",
+            "column_min": 691,
+            "row_min": 6919,
+            "column_max": 790,
+            "row_max": 6933,
+            "width": 99,
+            "height": 14
+        },
+        {
+            "id": 371,
+            "content": "Computing",
+            "column_min": 691,
+            "row_min": 6937,
+            "column_max": 767,
+            "row_max": 6951,
+            "width": 76,
+            "height": 14
+        },
+        {
+            "id": 372,
+            "content": "Services",
+            "column_min": 691,
+            "row_min": 6954,
+            "column_max": 747,
+            "row_max": 6964,
+            "width": 56,
+            "height": 10
+        },
+        {
+            "id": 373,
+            "content": "Listen to Books &",
+            "column_min": 857,
+            "row_min": 6903,
+            "column_max": 975,
+            "row_max": 6914,
+            "width": 118,
+            "height": 11
+        },
+        {
+            "id": 374,
+            "content": "Original",
+            "column_min": 857,
+            "row_min": 6921,
+            "column_max": 913,
+            "row_max": 6933,
+            "width": 56,
+            "height": 12
+        },
+        {
+            "id": 375,
+            "content": "Audio",
+            "column_min": 856,
+            "row_min": 6936,
+            "column_max": 896,
+            "row_max": 6947,
+            "width": 40,
+            "height": 11
+        },
+        {
+            "id": 376,
+            "content": "Find Movie",
+            "column_min": 1042,
+            "row_min": 6902,
+            "column_max": 1114,
+            "row_max": 6914,
+            "width": 72,
+            "height": 12
+        },
+        {
+            "id": 377,
+            "content": "Box Office Mojo",
+            "column_min": 1042,
+            "row_min": 6886,
+            "column_max": 1150,
+            "row_max": 6901,
+            "width": 108,
+            "height": 15
+        },
+        {
+            "id": 378,
+            "content": "Box Office Data",
+            "column_min": 1042,
+            "row_min": 6920,
+            "column_max": 1147,
+            "row_max": 6931,
+            "width": 105,
+            "height": 11
+        },
+        {
+            "id": 379,
+            "content": "Goodreads",
+            "column_min": 1264,
+            "row_min": 6887,
+            "column_max": 1338,
+            "row_max": 6899,
+            "width": 74,
+            "height": 12
+        },
+        {
+            "id": 380,
+            "content": "Business",
+            "column_min": 1459,
+            "row_min": 6850,
+            "column_max": 1516,
+            "row_max": 6861,
+            "width": 57,
+            "height": 11
+        },
+        {
+            "id": 381,
+            "content": "IMDb",
+            "column_min": 1458,
+            "row_min": 6885,
+            "column_max": 1494,
+            "row_max": 6899,
+            "width": 36,
+            "height": 14
+        },
+        {
+            "id": 382,
+            "content": "Book reviews",
+            "column_min": 1264,
+            "row_min": 6904,
+            "column_max": 1353,
+            "row_max": 6914,
+            "width": 89,
+            "height": 10
+        },
+        {
+            "id": 383,
+            "content": "Movies , TV",
+            "column_min": 1458,
+            "row_min": 6901,
+            "column_max": 1530,
+            "row_max": 6916,
+            "width": 72,
+            "height": 15
+        },
+        {
+            "id": 384,
+            "content": "&",
+            "column_min": 1263,
+            "row_min": 6921,
+            "column_max": 1274,
+            "row_max": 6931,
+            "width": 11,
+            "height": 10
+        },
+        {
+            "id": 385,
+            "content": "& Celebrities",
+            "column_min": 1458,
+            "row_min": 6920,
+            "column_max": 1545,
+            "row_max": 6931,
+            "width": 87,
+            "height": 11
+        },
+        {
+            "id": 386,
+            "content": "recommendations",
+            "column_min": 1264,
+            "row_min": 6935,
+            "column_max": 1386,
+            "row_max": 6948,
+            "width": 122,
+            "height": 13
+        },
+        {
+            "id": 387,
+            "content": "Prime Video",
+            "column_min": 691,
+            "row_min": 6991,
+            "column_max": 774,
+            "row_max": 7001,
+            "width": 83,
+            "height": 10
+        },
+        {
+            "id": 388,
+            "content": "Direct",
+            "column_min": 692,
+            "row_min": 7008,
+            "column_max": 732,
+            "row_max": 7019,
+            "width": 40,
+            "height": 11
+        },
+        {
+            "id": 389,
+            "content": "Video",
+            "column_min": 691,
+            "row_min": 7024,
+            "column_max": 731,
+            "row_max": 7035,
+            "width": 40,
+            "height": 11
+        },
+        {
+            "id": 390,
+            "content": "Distribution",
+            "column_min": 692,
+            "row_min": 7041,
+            "column_max": 771,
+            "row_max": 7053,
+            "width": 79,
+            "height": 12
+        },
+        {
+            "id": 391,
+            "content": "Made Easy",
+            "column_min": 691,
+            "row_min": 7055,
+            "column_max": 764,
+            "row_max": 7071,
+            "width": 73,
+            "height": 16
+        },
+        {
+            "id": 392,
+            "content": "Blink",
+            "column_min": 692,
+            "row_min": 7094,
+            "column_max": 726,
+            "row_max": 7105,
+            "width": 34,
+            "height": 11
+        },
+        {
+            "id": 393,
+            "content": "Smart Security",
+            "column_min": 691,
+            "row_min": 7110,
+            "column_max": 791,
+            "row_max": 7124,
+            "width": 100,
+            "height": 14
+        },
+        {
+            "id": 394,
+            "content": "for Every",
+            "column_min": 690,
+            "row_min": 7127,
+            "column_max": 754,
+            "row_max": 7140,
+            "width": 64,
+            "height": 13
+        },
+        {
+            "id": 395,
+            "content": "Home",
+            "column_min": 691,
+            "row_min": 7142,
+            "column_max": 731,
+            "row_max": 7155,
+            "width": 40,
+            "height": 13
+        },
+        {
+            "id": 396,
+            "content": "Performances",
+            "column_min": 857,
+            "row_min": 6953,
+            "column_max": 950,
+            "row_max": 6965,
+            "width": 93,
+            "height": 12
+        },
+        {
+            "id": 397,
+            "content": "Shopbop",
+            "column_min": 856,
+            "row_min": 6990,
+            "column_max": 918,
+            "row_max": 7005,
+            "width": 62,
+            "height": 15
+        },
+        {
+            "id": 398,
+            "content": "Designer",
+            "column_min": 858,
+            "row_min": 7007,
+            "column_max": 917,
+            "row_max": 7019,
+            "width": 59,
+            "height": 12
+        },
+        {
+            "id": 399,
+            "content": "Fashion Brands",
+            "column_min": 857,
+            "row_min": 7023,
+            "column_max": 961,
+            "row_max": 7035,
+            "width": 104,
+            "height": 12
+        },
+        {
+            "id": 400,
+            "content": "Neighbors App",
+            "column_min": 857,
+            "row_min": 7094,
+            "column_max": 958,
+            "row_max": 7107,
+            "width": 101,
+            "height": 13
+        },
+        {
+            "id": 401,
+            "content": "Real Time Crime",
+            "column_min": 857,
+            "row_min": 7109,
+            "column_max": 969,
+            "row_max": 7121,
+            "width": 112,
+            "height": 12
+        },
+        {
+            "id": 402,
+            "content": "& Safety Alerts",
+            "column_min": 856,
+            "row_min": 7127,
+            "column_max": 960,
+            "row_max": 7140,
+            "width": 104,
+            "height": 13
+        },
+        {
+            "id": 403,
+            "content": "Woot !",
+            "column_min": 1041,
+            "row_min": 6990,
+            "column_max": 1082,
+            "row_max": 7003,
+            "width": 41,
+            "height": 13
+        },
+        {
+            "id": 404,
+            "content": "Deals and",
+            "column_min": 1043,
+            "row_min": 7007,
+            "column_max": 1108,
+            "row_max": 7018,
+            "width": 65,
+            "height": 11
+        },
+        {
+            "id": 405,
+            "content": "Zappos",
+            "column_min": 1263,
+            "row_min": 6990,
+            "column_max": 1313,
+            "row_max": 7004,
+            "width": 50,
+            "height": 14
+        },
+        {
+            "id": 406,
+            "content": "Ring",
+            "column_min": 1458,
+            "row_min": 6992,
+            "column_max": 1489,
+            "row_max": 7004,
+            "width": 31,
+            "height": 12
+        },
+        {
+            "id": 407,
+            "content": "Shoes &",
+            "column_min": 1263,
+            "row_min": 7007,
+            "column_max": 1318,
+            "row_max": 7018,
+            "width": 55,
+            "height": 11
+        },
+        {
+            "id": 408,
+            "content": "Shenanigans",
+            "column_min": 1042,
+            "row_min": 7022,
+            "column_max": 1128,
+            "row_max": 7036,
+            "width": 86,
+            "height": 14
+        },
+        {
+            "id": 409,
+            "content": "Clothing",
+            "column_min": 1264,
+            "row_min": 7023,
+            "column_max": 1322,
+            "row_max": 7035,
+            "width": 58,
+            "height": 12
+        },
+        {
+            "id": 410,
+            "content": "Smart Home",
+            "column_min": 1457,
+            "row_min": 7007,
+            "column_max": 1545,
+            "row_max": 7018,
+            "width": 88,
+            "height": 11
+        },
+        {
+            "id": 411,
+            "content": "Security",
+            "column_min": 1458,
+            "row_min": 7023,
+            "column_max": 1514,
+            "row_max": 7037,
+            "width": 56,
+            "height": 14
+        },
+        {
+            "id": 412,
+            "content": "Amazon Subscription",
+            "column_min": 1041,
+            "row_min": 7094,
+            "column_max": 1185,
+            "row_max": 7107,
+            "width": 144,
+            "height": 13
+        },
+        {
+            "id": 413,
+            "content": "Boxes",
+            "column_min": 1042,
+            "row_min": 7112,
+            "column_max": 1081,
+            "row_max": 7122,
+            "width": 39,
+            "height": 10
+        },
+        {
+            "id": 414,
+            "content": "Top subscription boxes",
+            "column_min": 1041,
+            "row_min": 7124,
+            "column_max": 1196,
+            "row_max": 7141,
+            "width": 155,
+            "height": 17
+        },
+        {
+            "id": 415,
+            "content": "right to your door",
+            "column_min": 1052,
+            "row_min": 7144,
+            "column_max": 1175,
+            "row_max": 7156,
+            "width": 123,
+            "height": 12
+        },
+        {
+            "id": 416,
+            "content": "PillPack",
+            "column_min": 1264,
+            "row_min": 7092,
+            "column_max": 1315,
+            "row_max": 7106,
+            "width": 51,
+            "height": 14
+        },
+        {
+            "id": 417,
+            "content": "Pharmacy",
+            "column_min": 1264,
+            "row_min": 7110,
+            "column_max": 1333,
+            "row_max": 7123,
+            "width": 69,
+            "height": 13
+        },
+        {
+            "id": 418,
+            "content": "Simplified",
+            "column_min": 1264,
+            "row_min": 7126,
+            "column_max": 1331,
+            "row_max": 7140,
+            "width": 67,
+            "height": 14
+        },
+        {
+            "id": 419,
+            "content": "Conditions of Use",
+            "column_min": 569,
+            "row_min": 7213,
+            "column_max": 690,
+            "row_max": 7227,
+            "width": 121,
+            "height": 14
+        },
+        {
+            "id": 420,
+            "content": "Privacy Notice",
+            "column_min": 707,
+            "row_min": 7213,
+            "column_max": 803,
+            "row_max": 7228,
+            "width": 96,
+            "height": 15
+        },
+        {
+            "id": 421,
+            "content": "Consumer Health Data Privacy Disclosure",
+            "column_min": 821,
+            "row_min": 7214,
+            "column_max": 1100,
+            "row_max": 7227,
+            "width": 279,
+            "height": 13
+        },
+        {
+            "id": 422,
+            "content": "Your Ads Privacy Choices",
+            "column_min": 1117,
+            "row_min": 7214,
+            "column_max": 1287,
+            "row_max": 7227,
+            "width": 170,
+            "height": 13
+        },
+        {
+            "id": 423,
+            "content": "1996-2024 , Amazon.com , Inc. or its affiliates",
+            "column_min": 790,
+            "row_min": 7237,
+            "column_max": 1094,
+            "row_max": 7250,
+            "width": 304,
+            "height": 13
+        },
+        {
+            "id": 424,
+            "content": "Systems",
+            "column_min": 1458,
+            "row_min": 7041,
+            "column_max": 1515,
+            "row_max": 7054,
+            "width": 57,
+            "height": 13
+        }
+    ]
+}
